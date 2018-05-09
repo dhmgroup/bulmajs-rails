@@ -74,7 +74,7 @@ Now you need to edit your `app/assets/javascripts/application.js` file and add t
 
 ### Navbar Mobile Toggle
 
-All you need to do is add `data-bulma="navbar"` to the main navbar div, and then add data-trigger and `data-target="navID"` to the navbar burger
+All you need to do is add `data-bulma="navbar"` to the main navbar div, and then add `data-trigger` and `data-target="navID"` to the navbar burger
 
 ```html
 <nav class="navbar" data-bulma="navbar">
@@ -111,11 +111,15 @@ All you need to do is add `data-bulma="navbar"` to the main navbar div, and then
 </div>
 ```
 
-More examples are available [here](https://vizuaalog.github.io/BulmaJS)
+More examples and explanation are on available [https://vizuaalog.github.io/BulmaJS](https://vizuaalog.github.io/BulmaJS)
 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/theeomm/bulmajs-rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## Special Thanks
+
+[Thomas](https://github.com/VizuaaLOG) - Creator of BulmaJS
 
 ## License
 

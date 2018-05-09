@@ -5,10 +5,10 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 Gem::Specification.new do |spec|
   spec.name          = "bulmajs-rails"
   spec.version       = "0.3.1"
-  spec.authors       = ["Douglas H. Muhone"]
+  spec.authors       = ["Douglas Harrington Muhone"]
   spec.email         = ["theeomm@outlook.com"]
 
-  spec.summary       = %q{Unofficial javascript extension to the awesome Bulma CSS framework.}
+  spec.summary       = %q{Ruby on rails wrapper for the unofficial javascript extension to the awesome Bulma CSS framework.}
   spec.homepage      = "https://github.com/theeomm/bulmajs-rails"
   spec.license       = "MIT"
 
