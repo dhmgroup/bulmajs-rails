@@ -1,11 +1,10 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "bulmajs/rails/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "bulmajs-rails"
-  spec.version       = Bulmajs::Rails::VERSION
+  spec.version       = "0.3.1"
   spec.authors       = ["Douglas H. Muhone"]
   spec.email         = ["theeomm@outlook.com"]
 
