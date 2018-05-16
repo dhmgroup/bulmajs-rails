@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "bulmajs-rails"
-  spec.version       = "0.3.2"
+  spec.version       = "0.3.3"
   spec.authors       = ["Douglas Harrington Muhone"]
   spec.email         = ["theeomm@outlook.com"]
 

@@ -30,6 +30,8 @@ Now you need to edit your `app/assets/javascripts/application.js` file and add t
 //= require bulma
 ```
 
+## Turbolinks is now required for this wrapper.
+
 ## Usage Examples
 
 ### Basic Tabs
