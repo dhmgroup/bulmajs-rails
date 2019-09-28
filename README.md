@@ -6,7 +6,7 @@ BulmaJS is an unofficial javascript extension to the awesome [Bulma CSS framewor
 
 Source: [https://github.com/VizuaaLOG/BulmaJS](https://github.com/VizuaaLOG/BulmaJS)
 
-Ruby Gem: [https://rubygems.org/gems/bulmajs-rails](https://rubygems.org/gems/jquery-rails)
+Ruby Gem: [https://rubygems.org/gems/bulmajs-rails](https://rubygems.org/gems/bulmajs-rails)
 
 ## Installation
 
